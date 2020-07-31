@@ -47,12 +47,11 @@ Topics to cover:
 
 - Controller 
     a) Manages hotdata: 
-
-       split table into multiple partitions
+         split table into multiple partitions
       b) Leader Management
       c) Failover 
       
       Architectural Diagram
+            ![](images/database/arch1.png)
       
-      ![](https://d2mxuefqeaa7sj.cloudfront.net/s_B4C3BFDF316DDFD03BC03DB4722F7DC778A34C6E7CBD4A75BAED4DB02AF004B4_1545704283358_DDB.png)
      Strongly consistent, highly performant distributed db  https://www.cs.princeton.edu/events/25507
